@@ -1,3 +1,5 @@
+/* eslint-disable import/no-extraneous-dependencies */
+
 const { BrowserWindow, app } = require('electron');
 
 const path = require('path');
